@@ -1,0 +1,8 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb
