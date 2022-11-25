@@ -1,0 +1,8 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.pdb
