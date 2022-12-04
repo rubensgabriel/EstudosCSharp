@@ -1,8 +1,0 @@
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe.config
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.pdb
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.AssemblyReference.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.CoreCompileInputs.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.exe
-C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.pdb

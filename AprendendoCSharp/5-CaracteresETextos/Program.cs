@@ -1,37 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _5_CaracteresETextos
+class Programa
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Executando o projeto 5 - Caracteres e textos");
+        Console.WriteLine("Executando o Projeto 5 - Caracteres e Textos");
 
-            // character
-            char primeiraLetra = ' ';
-            Console.WriteLine(primeiraLetra);
+        char letra = 'a';
+        Console.WriteLine(letra);
 
-            primeiraLetra = (char)61;
-            Console.WriteLine(primeiraLetra);
+        letra = (char)65; // De acordo com a tabela ASCII é possível identificar os números correspondentes a cada caracter
+        Console.WriteLine(letra);
 
-            primeiraLetra = (char)(primeiraLetra + 1);
-            Console.WriteLine(primeiraLetra);
+        letra = (char)(65 + 1);
+        Console.WriteLine(letra);
 
-            string titulo = "Alura Cursos de tecnologia " + 2020;
-            string cursosProgramacao = 
-@" - .NET +
-- Java +
-- Javascript";
-            Console.WriteLine(titulo);
-            Console.WriteLine(cursosProgramacao);
+        letra = (char)(86 + 1);
+        Console.WriteLine(letra);
 
+        string primeiraFrase = "Alura - Cursos de tecnologia ";
+        Console.WriteLine(primeiraFrase + "2022");
 
-            Console.ReadLine();
-        }
+        string vazia = "";
+        Console.WriteLine(vazia);
+
+        letra = ' ';
+
+        string cursos = @"Cursos disponíveis: 
+- Go 
+- C# 
+- Python 
+- Java";
+        Console.WriteLine(cursos);
+
+        Console.WriteLine("Tecle enter para fechar...");
+        Console.ReadLine();
     }
 }

@@ -1,8 +1,0 @@
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.AssemblyReference.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
-C:\Users\Usuário\OneDrive\Documentos\Estudos\Estudos C#\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
