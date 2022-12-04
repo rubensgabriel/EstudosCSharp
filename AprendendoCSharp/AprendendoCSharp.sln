@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{A900428E-AE7B-40CB-845F-3F851B6DCA21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-VariaveisPontoFlutuante", "3-VariaveisPontoFlutuante\3-VariaveisPontoFlutuante.csproj", "{4DDAE6AD-1494-4CEA-B6B4-7CDD5B3A751E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-VariaveisPontoFlutuante", "3-VariaveisPontoFlutuante\3-VariaveisPontoFlutuante.csproj", "{4DDAE6AD-1494-4CEA-B6B4-7CDD5B3A751E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{3D3E1F1C-5539-4484-B4B5-50240FBC2371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{3D3E1F1C-5539-4484-B4B5-50240FBC2371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesEOutrosTiposNumericos", "ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos.csproj", "{9CAF561F-6284-4230-B22C-2B847B5CEF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTiposNumericos", "ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos.csproj", "{9CAF561F-6284-4230-B22C-2B847B5CEF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{7F2A9DD8-743B-49A7-B95E-046A58A93BBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{7F2A9DD8-743B-49A7-B95E-046A58A93BBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{AEC4A830-D9DC-443D-96C6-60F47EF2F516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{AEC4A830-D9DC-443D-96C6-60F47EF2F516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{AEC4A830-D9DC-443D-96C6-60F47EF2F516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC4A830-D9DC-443D-96C6-60F47EF2F516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEC4A830-D9DC-443D-96C6-60F47EF2F516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
