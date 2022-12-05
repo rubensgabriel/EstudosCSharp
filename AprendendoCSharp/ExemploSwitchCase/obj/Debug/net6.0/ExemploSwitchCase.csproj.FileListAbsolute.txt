@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\bin\Debug\net6.0\ExemploSwitchCase.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\bin\Debug\net6.0\ExemploSwitchCase.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\bin\Debug\net6.0\ExemploSwitchCase.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\bin\Debug\net6.0\ExemploSwitchCase.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\bin\Debug\net6.0\ExemploSwitchCase.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\refint\ExemploSwitchCase.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ExemploSwitchCase.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploSwitchCase\obj\Debug\net6.0\ref\ExemploSwitchCase.dll

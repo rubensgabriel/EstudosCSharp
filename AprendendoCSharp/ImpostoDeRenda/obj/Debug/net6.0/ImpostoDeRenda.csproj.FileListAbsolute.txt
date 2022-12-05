@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\refint\ImpostoDeRenda.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ImpostoDeRenda\obj\Debug\net6.0\ref\ImpostoDeRenda.dll
