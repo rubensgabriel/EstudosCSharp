@@ -1,0 +1,13 @@
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.exe
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.deps.json
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.json
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.dev.json
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csprojAssemblyReference.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfoInputs.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfo.cs
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csproj.CoreCompileInputs.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.genruntimeconfig.cache
