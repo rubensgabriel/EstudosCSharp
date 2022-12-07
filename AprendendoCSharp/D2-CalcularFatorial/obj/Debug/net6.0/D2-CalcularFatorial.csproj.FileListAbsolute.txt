@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\bin\Debug\net6.0\D2-CalcularFatorial.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\bin\Debug\net6.0\D2-CalcularFatorial.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\bin\Debug\net6.0\D2-CalcularFatorial.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\bin\Debug\net6.0\D2-CalcularFatorial.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\bin\Debug\net6.0\D2-CalcularFatorial.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\refint\D2-CalcularFatorial.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\D2-CalcularFatorial.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\D2-CalcularFatorial\obj\Debug\net6.0\ref\D2-CalcularFatorial.dll

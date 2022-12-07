@@ -19,23 +19,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicoesDeVariaveis", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{2BDB6CF8-BD15-47B0-9CFA-37190FC640E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais", "8-Condicionais\8-Condicionais.csproj", "{1E8C5D13-894F-4B02-AFA9-2A8E6FBB797F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais", "8-Condicionais\8-Condicionais.csproj", "{1E8C5D13-894F-4B02-AFA9-2A8E6FBB797F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{D373742A-B7BE-4E9C-B5FF-83B5CCC5DCA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{D373742A-B7BE-4E9C-B5FF-83B5CCC5DCA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{A04F1100-44A0-4433-A9C2-5D664D80DC40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{A04F1100-44A0-4433-A9C2-5D664D80DC40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{705140AF-1C04-471F-865D-A1742605C35E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{705140AF-1C04-471F-865D-A1742605C35E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpostoDeRenda", "ImpostoDeRenda\ImpostoDeRenda.csproj", "{A3022EC3-1EC9-4FA4-A292-C3A5A6A22932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImpostoDeRenda", "ImpostoDeRenda\ImpostoDeRenda.csproj", "{A3022EC3-1EC9-4FA4-A292-C3A5A6A22932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploSwitchCase", "ExemploSwitchCase\ExemploSwitchCase.csproj", "{33D2A442-643A-4164-95CC-283A9A7649B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploSwitchCase", "ExemploSwitchCase\ExemploSwitchCase.csproj", "{33D2A442-643A-4164-95CC-283A9A7649B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-InvestimentoALongoPrazo", "P12-InvestimentoALongoPrazo\P12-InvestimentoALongoPrazo.csproj", "{7170BA56-85D3-4D5F-8B09-332D2301A901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12-InvestimentoALongoPrazo", "P12-InvestimentoALongoPrazo\P12-InvestimentoALongoPrazo.csproj", "{7170BA56-85D3-4D5F-8B09-332D2301A901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-EncadeandoFor", "P13-EncadeandoFor\P13-EncadeandoFor.csproj", "{0CDBB9DD-49BC-47F1-B08C-CB5F93DB24BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13-EncadeandoFor", "P13-EncadeandoFor\P13-EncadeandoFor.csproj", "{0CDBB9DD-49BC-47F1-B08C-CB5F93DB24BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1-MultiplosDe3", "D1-MultiplosDe3\D1-MultiplosDe3.csproj", "{B6B26CFC-3F34-4C63-9DE8-89CEEF208601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D1-MultiplosDe3", "D1-MultiplosDe3\D1-MultiplosDe3.csproj", "{B6B26CFC-3F34-4C63-9DE8-89CEEF208601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2-CalcularFatorial", "D2-CalcularFatorial\D2-CalcularFatorial.csproj", "{7A42148A-4482-4B93-9900-6F2410269C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploEntradaDeDados", "ExemploEntradaDeDados\ExemploEntradaDeDados.csproj", "{660400B7-EF97-4587-81C7-4CC861728B0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{B6B26CFC-3F34-4C63-9DE8-89CEEF208601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B26CFC-3F34-4C63-9DE8-89CEEF208601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B26CFC-3F34-4C63-9DE8-89CEEF208601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A42148A-4482-4B93-9900-6F2410269C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A42148A-4482-4B93-9900-6F2410269C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A42148A-4482-4B93-9900-6F2410269C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A42148A-4482-4B93-9900-6F2410269C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660400B7-EF97-4587-81C7-4CC861728B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660400B7-EF97-4587-81C7-4CC861728B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660400B7-EF97-4587-81C7-4CC861728B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660400B7-EF97-4587-81C7-4CC861728B0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

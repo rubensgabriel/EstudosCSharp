@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\bin\Debug\net6.0\ExemploEntradaDeDados.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\bin\Debug\net6.0\ExemploEntradaDeDados.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\bin\Debug\net6.0\ExemploEntradaDeDados.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\bin\Debug\net6.0\ExemploEntradaDeDados.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\bin\Debug\net6.0\ExemploEntradaDeDados.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\refint\ExemploEntradaDeDados.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ExemploEntradaDeDados.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\AprendendoCSharp\ExemploEntradaDeDados\obj\Debug\net6.0\ref\ExemploEntradaDeDados.dll
