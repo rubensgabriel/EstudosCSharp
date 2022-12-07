@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador", "Contador\Contador.csproj", "{DF7103D7-A110-4F1A-BF52-7D07E0CEB4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\ParOuImpar.csproj", "{6A5B53DE-201D-4E28-9344-A9FC5C76FE09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7103D7-A110-4F1A-BF52-7D07E0CEB4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7103D7-A110-4F1A-BF52-7D07E0CEB4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7103D7-A110-4F1A-BF52-7D07E0CEB4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7103D7-A110-4F1A-BF52-7D07E0CEB4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5B53DE-201D-4E28-9344-A9FC5C76FE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5B53DE-201D-4E28-9344-A9FC5C76FE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5B53DE-201D-4E28-9344-A9FC5C76FE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5B53DE-201D-4E28-9344-A9FC5C76FE09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0B3619-CCAA-4EC4-993E-518334D9832F}
+	EndGlobalSection
+EndGlobal
