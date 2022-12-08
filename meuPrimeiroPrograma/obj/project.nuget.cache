@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwVD5dqoWBgcqWCzfkFWLUdq/RxctUVkK0QIbPQoWmX7ekeq78XkXvoaJDFILUe5viLeM5SWg5r6OinQQKxgnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgrs3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

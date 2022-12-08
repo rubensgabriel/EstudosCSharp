@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeirPrograma\\meuPrimeirPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
       "projectName": "meuPrimeirPrograma",
-      "projectPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeirPrograma\\meuPrimeirPrograma.csproj",
+      "projectPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
       "packagesPath": "C:\\Users\\rgrs3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeirPrograma\\obj\\",
+      "outputPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgrs3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,22 +42,30 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.31, 3.1.31]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,18 @@ C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\Contador\
 C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.pdb
 C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.genruntimeconfig.cache
 C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\ref\Contador.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\bin\Debug\net6.0\Contador.exe
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\bin\Debug\net6.0\Contador.deps.json
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\bin\Debug\net6.0\Contador.runtimeconfig.json
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\bin\Debug\net6.0\Contador.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\bin\Debug\net6.0\Contador.pdb
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.csproj.AssemblyReference.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.AssemblyInfoInputs.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.AssemblyInfo.cs
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.csproj.CoreCompileInputs.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\refint\Contador.dll
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.pdb
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\Contador.genruntimeconfig.cache
+C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\Exercicios\Contador\obj\Debug\net6.0\ref\Contador.dll
