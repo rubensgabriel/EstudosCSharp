@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj": {}
+    "C:\\Users\\Usuário\\OneDrive\\Documentos\\Estudos\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj": {
+    "C:\\Users\\Usuário\\OneDrive\\Documentos\\Estudos\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Estudos\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj",
         "projectName": "Contador",
-        "projectPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj",
-        "packagesPath": "C:\\Users\\rgrs3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\Exercicios\\Contador\\obj\\",
+        "projectPath": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Estudos\\EstudosCSharp\\Exercicios\\Contador\\Contador.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuário\\OneDrive\\Documentos\\Estudos\\EstudosCSharp\\Exercicios\\Contador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rgrs3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

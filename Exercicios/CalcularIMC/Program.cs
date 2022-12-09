@@ -18,14 +18,15 @@ namespace meuPrimeirPrograma
 
             Console.WriteLine("Informe o peso: ");
             peso = Convert.ToDouble(Console.ReadLine());
-            
-            double imc = peso / (altura*altura);
+
+            double imc = peso / (altura * altura);
 
             Console.Clear();
 
             Console.WriteLine("IMC calculado: " + imc);
 
-            if (imc <= 0){
+            if (imc <= 0)
+            {
                 Console.WriteLine("Valores inválidos");
             }
 
@@ -38,7 +39,7 @@ namespace meuPrimeirPrograma
             {
                 Console.WriteLine("Saudável");
             }
-            
+
             else if (imc < 30)
             {
                 Console.WriteLine("Peso em excesso");
@@ -61,3 +62,4 @@ namespace meuPrimeirPrograma
         }
     }
 }
+

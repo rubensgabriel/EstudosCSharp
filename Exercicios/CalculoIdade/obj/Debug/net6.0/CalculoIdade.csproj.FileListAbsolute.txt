@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\bin\Debug\net6.0\CalculoIdade.exe
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\bin\Debug\net6.0\CalculoIdade.deps.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\bin\Debug\net6.0\CalculoIdade.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\bin\Debug\net6.0\CalculoIdade.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\bin\Debug\net6.0\CalculoIdade.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\refint\CalculoIdade.dll
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.pdb
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\CalculoIdade.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Documentos\Estudos\EstudosCSharp\Exercicios\CalculoIdade\obj\Debug\net6.0\ref\CalculoIdade.dll
