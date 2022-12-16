@@ -6,8 +6,9 @@ namespace meuPrimeirPrograma
     {
         static void Main(string[] args)
         {
+            /*
             string pedido;
-            double
+            int quantidade;
 
             Console.WriteLine("====================================");
             Console.WriteLine("==  Bem vindo à nossa lanchonete  ==");
@@ -28,7 +29,20 @@ namespace meuPrimeirPrograma
                 case "100" :
                 Console.WriteLine("Pedido nº 100 escolhido");
                 Console.WriteLine("Favor informe a quantidade");
+                quantidade = Convert.ToInt32(Console.ReadLine());
                 break;
+            }
+            */
+            // Exemplo de Vetores
+            int[] idades = new int[5];
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Informe a " + (i+1) + " º idade:");
+                idades[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("idades [" + i + "] = " + idades[i]);
             }
         }
     }
