@@ -25,3 +25,17 @@ C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeiroPr
 C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
 C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
 C:\Users\rgrs3\OneDrive - Energisa\Documentos\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.genruntimeconfig.cache
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.exe
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.deps.json
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.json
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.dev.json
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csproj.AssemblyReference.cache
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfoInputs.cache
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfo.cs
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\Rubens\Documents\GitHub\EstudosCSharp\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.genruntimeconfig.cache

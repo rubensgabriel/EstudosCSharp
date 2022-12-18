@@ -34,13 +34,19 @@ namespace meuPrimeirPrograma
             }
             */
             // Exemplo de Vetores
-            int[] idades = new int[5];
-            for(int i = 0; i < 5; i++)
+            int cont;
+
+            Console.WriteLine("Informe o tamanho do vetor: ");
+            cont = Convert.ToInt32(Console.ReadLine());
+
+            int[] idades = new int[cont];
+            
+            for(int i = 0; i < cont; i++)
             {
-                Console.WriteLine("Informe a " + (i+1) + " º idade:");
+                Console.WriteLine("Informe a " + (i+1) + "º idade:");
                 idades[i] = Convert.ToInt32(Console.ReadLine());
             }
-            for(int i = 0; i < 5; i++)
+            for(int i = 0; i < cont; i++)
             {
                 Console.WriteLine("idades [" + i + "] = " + idades[i]);
             }

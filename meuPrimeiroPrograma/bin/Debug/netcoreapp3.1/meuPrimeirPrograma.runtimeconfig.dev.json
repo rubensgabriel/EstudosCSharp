@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\rgrs3\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rgrs3\\.nuget\\packages"
+      "C:\\Users\\Rubens\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rubens\\.nuget\\packages"
     ]
   }
 }
