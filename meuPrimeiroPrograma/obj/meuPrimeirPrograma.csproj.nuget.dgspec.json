@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rubens\\Documents\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj": {}
+    "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rubens\\Documents\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj": {
+    "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rubens\\Documents\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
+        "projectUniqueName": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
         "projectName": "meuPrimeirPrograma",
-        "projectPath": "C:\\Users\\Rubens\\Documents\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
-        "packagesPath": "C:\\Users\\Rubens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rubens\\Documents\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\obj\\",
+        "projectPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\meuPrimeirPrograma.csproj",
+        "packagesPath": "C:\\Users\\rgrs3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rgrs3\\OneDrive - Energisa\\Documentos\\GitHub\\EstudosCSharp\\meuPrimeiroPrograma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rubens\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rgrs3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,20 +50,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
+              "version": "[3.1.31, 3.1.31]"
             }
           ],
           "frameworkReferences": {
@@ -71,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

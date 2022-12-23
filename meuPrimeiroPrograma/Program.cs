@@ -33,23 +33,86 @@ namespace meuPrimeirPrograma
                 break;
             }
             */
-            // Exemplo de Vetores
-            int cont;
-
-            Console.WriteLine("Informe o tamanho do vetor: ");
-            cont = Convert.ToInt32(Console.ReadLine());
-
-            int[] idades = new int[cont];
+            // Exemplo de Vetor
+            const int cont = 5;
+            string aux, resp;
+            string[] nomes = new string[cont];
             
             for(int i = 0; i < cont; i++)
             {
-                Console.WriteLine("Informe a " + (i+1) + "º idade:");
-                idades[i] = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Informe o " + (i+1) + "º nome:");
+                nomes[i] = Console.ReadLine();
             }
+
+            Console.Clear();
             for(int i = 0; i < cont; i++)
             {
-                Console.WriteLine("idades [" + i + "] = " + idades[i]);
+                Console.WriteLine("Nome [" + i + "] = " + nomes[i]);
             }
+            while (resp="sim")
+            {
+                Console.WriteLine("Digite o nome a ser pesquisado: ");
+                resp = Console.ReadLine();
+            }
+
+            /*PESQUISA NO VISUALG
+            enquanto (resp="sim") faca
+            Escreval("Digite o nome a ser pesquisado: ")
+            leia(pesq)
+
+            i:=1
+            acha:=falso
+
+            enquanto ((i<=20) e (acha=falso)) faca
+                se (pesq=nomes[i]) entao
+                    acha:=verdadeiro
+
+                senao
+                    i:=i+1
+                fimse
+
+            fimenquanto
+
+
+            se (acha=verdadeiro) entao
+                Escreval(pesq, " foi localizado na posição ",i)
+            senao
+                Escreval(pesq, " não foi localizado")
+            fimse
+
+            Escreval("Deseja continuar?")
+            leia(resp)
+
+            fimenquanto
+            */
+            
+            /* ORDENAÇÃO COM ERRO
+
+            for(int i = 0; i < cont; i++)
+            {
+                for(int j = i+1; j < 20; j++)
+                {
+                    if (nomes[i] > nomes[j])
+                    {
+                        aux = nomes[i];
+                        nomes[i] = nomes[j];
+                        nomes[j] = aux;
+                    }
+                }
+            }
+            */
+
+            /* ORDENAÇÃO NO VISUALG 
+
+           para i de 1 ate 19 faca
+                para j de i+1 ate 20 faca
+                se (nomes[i] > nomes[j]) entao
+                    X <- nomes[i]
+                    nomes[i] <- nomes[j]
+                    nomes[j] <- X
+                fimse
+                fimpara
+                fimpara */
         }
     }
 }
