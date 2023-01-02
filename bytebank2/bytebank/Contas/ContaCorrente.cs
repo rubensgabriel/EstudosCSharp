@@ -12,7 +12,7 @@ namespace bytebank
         public int numero_agencia;
         public string conta;
         public string titular;
-        public double saldo;
+        public double saldo; //é possível declarar um valor para a variavel diretamente daqui
 
         public void Depositar(double valor)
         {
@@ -34,7 +34,11 @@ namespace bytebank
 
         public bool Transferir(double valor, ContaCorrente destino)
         {
-            if(this.saldo < valor)
+            if (this.saldo < valor)
+            {
+                return false;
+            }
+            if (valor < 0)
             {
                 return false;
             }
@@ -44,6 +48,14 @@ namespace bytebank
                 destino.Depositar(valor);
                 return true;
             }
+        }
+
+        public void ExibirDadosDaConta()
+        {
+            Console.WriteLine("Titular: " + titular);
+            Console.WriteLine("Conta: " + conta);
+            Console.WriteLine("Número da agência: " + numero_agencia);
+            Console.WriteLine("Saldo: " + saldo);
         }
     }
 

@@ -20,8 +20,9 @@ Console.WriteLine("Informe o valor que deseja transferir para a conta da Júlia"
 double transferencia = Convert.ToDouble(Console.ReadLine());
 
 contaDoGabriel.Transferir(transferencia, contaDaJulia);
-Console.WriteLine("Saldo do Gabriel = " + contaDoGabriel.saldo);
-Console.WriteLine("Saldo da Júlia = " + contaDaJulia.saldo);
+
+contaDoGabriel.ExibirDadosDaConta();
+contaDaJulia.ExibirDadosDaConta();
 
 /* DESAFIO 1 - Criar uma classe para cadastrar os dados de Estoque dos produtos do Supermercado Menor Preço
 namespace menor_preco
@@ -38,6 +39,25 @@ namespace menor_preco
 }
 */
 
+/* DESAFIO 2 - Cadastro de pessoa em sistema médico
+
+namespace sistema_medico
+{
+    public void Pessoa
+    {
+        public string nome;
+        public int idade;
+        public double altura;
+        public double peso;
+    }
+}
+
+Console.WriteLine(pessoa.nome);
+Console.WriteLine(pessoa.idade);
+Console.WriteLine(pessoa.altura);
+Console.WriteLine(pessoa.peso);
+
+*/
 /* SAQUE e DEPÓSITO na conta do Gabriel
 
 Console.WriteLine("Saldo da conta do Gabriel = " + contaDoGabriel.saldo);
