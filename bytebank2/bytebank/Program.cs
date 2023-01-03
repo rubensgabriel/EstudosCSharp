@@ -1,5 +1,10 @@
 ﻿using bytebank;
 
+Cliente cliente = new Cliente();
+cliente.nome ="Gabriel Souza";
+cliente.Cpf="12321114521";
+cliente.profissao = "Analista";
+
 ContaCorrente contaDoGabriel = new ContaCorrente();
 contaDoGabriel.titular = "Gabriel Souza";
 contaDoGabriel.numero_agencia = 13;
