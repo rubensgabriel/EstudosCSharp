@@ -11,7 +11,7 @@ namespace bytebank
     {
         public int numero_agencia;
         public string conta;
-        public double saldo; //é possível declarar um valor para a variavel diretamente daqui
+        private double saldo; //é possível declarar um valor para a variavel diretamente daqui
         public Cliente titular;
 
         public void Depositar(double valor)

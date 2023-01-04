@@ -1,33 +1,64 @@
 ﻿using bytebank;
 
-Cliente cliente = new Cliente();
-cliente.nome ="Gabriel Souza";
-cliente.Cpf="12321114521";
-cliente.profissao = "Analista";
+ContaCorrente conta3 = new ContaCorrente();
+conta3.saldo = -10;
 
-ContaCorrente contaDoGabriel = new ContaCorrente();
-contaDoGabriel.titular = "Gabriel Souza";
-contaDoGabriel.numero_agencia = 13;
-contaDoGabriel.conta = "2030-X";
-contaDoGabriel.saldo = 300;
+// ===== CRIAÇÃO DE CONTA E CLIENTE =====
+// Cliente cliente = new Cliente();
+// cliente.nome ="Rubens Rodrigues";
+// cliente.Cpf="12321114521";
+// cliente.profissao = "Analista";
 
-Console.WriteLine("Saldo da conta do Gabriel = " + contaDoGabriel.saldo);
+// ContaCorrente conta = new ContaCorrente();
+// conta.titular = cliente;
+// conta.conta = "1020-X";
+// conta.numero_agencia = 15;
+// conta.saldo = 100;
 
-ContaCorrente contaDaJulia = new ContaCorrente();
-contaDaJulia.titular = "Julia Gomes";
-contaDaJulia.numero_agencia = 11;
-contaDaJulia.conta = "1123-X";
-contaDaJulia.saldo = 420;
+// ContaCorrente conta2 = new ContaCorrente();
+// conta2.titular = new Cliente();
+// conta2.titular.nome = "José Souza";
+// conta2.titular.profissao = "Tester";
+// conta2.titular.Cpf = "987654321";
+// conta2.conta = "9999-X";
+// conta2.numero_agencia = 18;
+// conta2.saldo = 500;
 
-Console.WriteLine("Saldo da conta da Júlia = " + contaDaJulia.saldo);
+// Console.WriteLine(conta2.titular.nome);
 
-Console.WriteLine("Informe o valor que deseja transferir para a conta da Júlia");
-double transferencia = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Titular: " + conta.titular.nome);
+// Console.WriteLine("CPF: " + conta.titular.Cpf);
+// Console.WriteLine("Profissão: " + conta.titular.profissao);
+// Console.WriteLine("Nº Conta: " + conta.conta);
+// Console.WriteLine("Saldo: " + conta.saldo);
+// Console.WriteLine("Nº Agência: " + conta.numero_agencia);
 
-contaDoGabriel.Transferir(transferencia, contaDaJulia);
 
-contaDoGabriel.ExibirDadosDaConta();
-contaDaJulia.ExibirDadosDaConta();
+// ===== Transferencia entre a conta do Gabriel e da Júlia =====
+
+// ContaCorrente contaDoGabriel = new ContaCorrente();
+// contaDoGabriel.titular = "Gabriel Souza";
+// contaDoGabriel.numero_agencia = 13;
+// contaDoGabriel.conta = "2030-X";
+// contaDoGabriel.saldo = 300;
+
+// Console.WriteLine("Saldo da conta do Gabriel = " + contaDoGabriel.saldo);
+
+// ContaCorrente contaDaJulia = new ContaCorrente();
+// contaDaJulia.titular = "Julia Gomes";
+// contaDaJulia.numero_agencia = 11;
+// contaDaJulia.conta = "1123-X";
+// contaDaJulia.saldo = 420;
+
+// Console.WriteLine("Saldo da conta da Júlia = " + contaDaJulia.saldo);
+
+// Console.WriteLine("Informe o valor que deseja transferir para a conta da Júlia");
+// double transferencia = Convert.ToDouble(Console.ReadLine());
+
+// contaDoGabriel.Transferir(transferencia, contaDaJulia);
+
+// contaDoGabriel.ExibirDadosDaConta();
+// contaDaJulia.ExibirDadosDaConta();
 
 /* DESAFIO 1 - Criar uma classe para cadastrar os dados de Estoque dos produtos do Supermercado Menor Preço
 namespace menor_preco
