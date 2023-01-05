@@ -1,9 +1,36 @@
 ﻿using bytebank;
 
-ContaCorrente conta3 = new ContaCorrente();
-conta3.saldo = -10;
+ContaCorrente conta5 = new ContaCorrente(283,"1234-X");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
-// ===== CRIAÇÃO DE CONTA E CLIENTE =====
+ContaCorrente conta6 = new ContaCorrente(284, "9874-Z");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+ContaCorrente conta7 = new ContaCorrente(285, "1111-Z");
+Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
+
+// ContaCorrente conta4 = new ContaCorrente(18, "1010-X");
+// conta4.SetSaldo(500);
+// conta4.Titular = new Cliente();
+
+// Console.WriteLine(conta4.GetSaldo());
+// Console.WriteLine(conta4.Numero_agencia);
+
+
+// ========= Utilizando propriedades e métodos =========
+
+// ContaCorrente conta3 = new ContaCorrente();
+// conta3.Numero_Agencia = 18;
+// conta3.Conta = "1011-H";
+// conta3.SetSaldo(200);
+
+// Console.WriteLine(conta3.GetSaldo());
+// Console.WriteLine(conta3.Numero_Agencia);
+// Console.WriteLine(conta3.Conta);
+
+
+// ========= CRIAÇÃO DE CONTA E CLIENTE =========
+
 // Cliente cliente = new Cliente();
 // cliente.nome ="Rubens Rodrigues";
 // cliente.Cpf="12321114521";
